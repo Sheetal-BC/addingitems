@@ -20,10 +20,10 @@ var main = document.querySelector('.title');
 // console.log(headerTitle);
 // headerTitle.textContent = ' Hello';
 // headerTitle.innerText = 'Goodbye'
-main.style.fontWeight = 'bold';
-main.style.color = 'green';
-main.innerHTML = 'ADD ITEMS';
-header.style.borderBottom = 'solid 3px #000';
+// main.style.fontWeight = 'bold';
+// main.style.color = 'green';
+// main.innerHTML = 'ADD ITEMS';
+// header.style.borderBottom = 'solid 3px #000';
 
 // getelementbyclassname
 
